@@ -16,7 +16,7 @@ Project that creates an API using lambda and API Gateway, recieve data from user
  In case of any doubt see the [AWS CloudFormation Documentation](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/deploy/index.html).
  
  After the stack is created, go to resources to get the API Gateway post link. You can run it with Postman sending the data in the body section or even testing in the console in the test link in API Gateway.
- Sometimes it can have a Proxy error, just make sure in the API Gateway that the Lambda Proxy is enabled.
+ Sometimes it can have a Proxy error, just make sure in the API Gateway that the Lambda Proxy is enable.
  
  ## Application Diagram
  ![Application Diagram](lambda_kinesis.png "Application Diagram")
