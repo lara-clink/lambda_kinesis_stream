@@ -9,7 +9,7 @@ Project that creates an API using lambda and API Gateway, recieve data from user
     - process_lambda.py
  
  ## How to use it 
- You can upload the yaml code in the console in AWS CloudFormation or run the command line: 
+ You can upload the yaml code in the console in AWS CloudFormation or run the command line (make sure you are logged in your profile): 
  ``` 
  aws cloudformation deploy --template-file /path_to_template/cf_main_scope.yaml --stack-name kinesis-lambda
  ```
