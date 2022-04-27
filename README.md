@@ -16,4 +16,4 @@ Project that creates an API using lambda and API Gateway, recieve data from user
  In case of any doubt see the [AWS CloudFormation Documentation](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/deploy/index.html).
  
  ## Application Diagram
- [Application Diagram](lambda_kinesis.png "Application Diagram")
+ ![Application Diagram](lambda_kinesis.png "Application Diagram")
